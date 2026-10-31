@@ -1,6 +1,10 @@
 [
-{"sensor_id": "   SENSOR-001   ", "temperatura": "24.5", "ubicacion": "Planta Norte"},
+{"sensor_id": "   SENSOR-001   ", "temperatura": "26.5", "ubicacion": "Planta Norte"},
 {"sensor_id": "  SENSOR-002", "temperatura": "20C", "ubicacion": ""},
 {"sensor_id": "SENSOR-003   ", "temperatura": " 18.8ºC", "ubicacion": "Planta "},
-{"sensor_id": "SENSOR-004 ", "temperatura": "24.5C", "ubicacion": ""}
+{"sensor_id": " SENSOR-004 ", "temperatura": "24.5C", "ubicacion": ""},
+{"sensor_id": "  SENSOR-005   ", "temperatura": "17.5", "ubicacion": "Planta Norte"},
+{"sensor_id": " SENSOR-006", "temperatura": "21C", "ubicacion": ""},
+{"sensor_id": "  SENSOR-007 ", "temperatura": " 22.3ºC", "ubicacion": "Planta Norte "},
+{"sensor_id": "SENSOR-008  ", "temperatura": "30.5C", "ubicacion": ""}
 ]
