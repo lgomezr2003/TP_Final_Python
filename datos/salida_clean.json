@@ -1,0 +1,22 @@
+[
+  {
+    "sensor_id": "SENSOR-001",
+    "temperatura": 24.5,
+    "ubicacion": "Planta Norte"
+  },
+  {
+    "sensor_id": "SENSOR-002",
+    "temperatura": 20.0,
+    "ubicacion": "No especificada"
+  },
+  {
+    "sensor_id": "SENSOR-003",
+    "temperatura": 18.8,
+    "ubicacion": "Planta"
+  },
+  {
+    "sensor_id": "SENSOR-004",
+    "temperatura": 24.5,
+    "ubicacion": "No especificada"
+  }
+]
