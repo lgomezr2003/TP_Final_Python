@@ -36,8 +36,8 @@ def obtener_metricas_consumo(registros: list[dict]) -> dict:
             mayor_consumo = consumo
             planta_mayor = planta
             
-        return {
-            "total_emisiones": round(total_emisiones, 2),
-            "planta_mayor_consumo": planta_mayor,
-            "detalle": detalle,
-        }
+    return {
+        "total_emisiones": round(total_emisiones, 2),
+        "planta_mayor_consumo": planta_mayor,
+        "detalle": detalle,
+    }
