@@ -1,5 +1,5 @@
 # TP_Final_Python
-##Repositorio donde subo los ejercicios finales del curso de Python
+## Repositorio donde subo los ejercicios finales del curso de Python
 Este repositorio contiene la resolución de los tres ejercicios prácticos integradores del curso, aplicando conceptos de modularización, programación orientada a objetos (POO), manejo de excepciones, persistencia de datos, testing unitario y desarrollo web con Django.
 Estructura del Repositorio
 
@@ -15,7 +15,7 @@ Para probar los ejercicios, necesitas tener instalado Python 3.10+ y Git. Se rec
 A continuación, las instrucciones de ejecución para cada apartado.
 
 
-##Ejercicio 1: Organizador y Monitor de Sensores
+## Ejercicio 1: Organizador y Monitor de Sensores
 
 Ubicación: /Ejercicio1
 
@@ -44,7 +44,7 @@ Parámetros:
     -u: Umbral de temperatura para las alertas (default: 22.0).
 
 
-##Ejercicio 2: Catálogo de Inventario EcoTech
+## Ejercicio 2: Catálogo de Inventario EcoTech
 
 Ubicación: /Ejercicio2
 
@@ -69,7 +69,7 @@ source venv/bin/activate
     Imprime por consola las fichas técnicas con polimorfismo.
 
 
-##Ejercicio 3: Auditoría y Panel Web Django
+## Ejercicio 3: Auditoría y Panel Web Django
 
 Ubicación: /Ejercicio3
 
